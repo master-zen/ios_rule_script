@@ -1,3 +1,12 @@
+##有两个子资源已经失效
+##失效资源1:
+##^https?:\/\/app\.biliintl\.com\/(intl\/gateway\/v\d\/app\/data\/report\/heartbeat\/mobile|x\/(history|reply)/v\d/add) url script-request-body https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Rewrite/bstar.js
+##失效资源2:
+##^https?:\/\/passport\.biliintl\.com\/x\/intl\/passport-login\/(sms\/send|reg\/sms|oauth2\/access_token|login\/sms) url script-request-body https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Rewrite/bstar.js
+
+
+
+
 # AllInOne
 
 ## 前言
